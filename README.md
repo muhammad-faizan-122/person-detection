@@ -1,5 +1,5 @@
 # Detect the Person in Video
-Here is ![demo video](config/demo.gif)
+![demo video](config/demo.gif)
 ## Usage 
 - Place input video in **data/input** directory.
 - Set the input video path in **config/yolov8.yml**.
