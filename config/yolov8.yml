@@ -1,0 +1,5 @@
+model_path: model/best.pt
+video_path: https://youtu.be/zhEWqfP6V_w?si=Cw0jXcJto7E7iUH9
+out_video: data/output/out.avi
+person_class: 0
+confidence_score: 0.5
